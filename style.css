@@ -1,0 +1,219 @@
+/* .card{
+    width:300px;
+    border:1px solid lightgray;
+    padding:10px;
+    margin:50px auto;
+    border-radius: 10px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.img1{
+   width: 100%;
+   border-radius: 10px;
+   object-fit: cover;
+}
+.image{
+    position: relative;
+}
+.absolute{
+    position:absolute;
+    font-size: small;
+}
+.off{
+    bottom: 0;
+    color: rgb(240, 248, 255);
+    background-color: rgb(68, 68, 203);
+    padding: 1px 5px;
+}
+.time{
+    bottom:1px;
+    right: 10px;
+    color: #081414d0;
+    background-color:white;
+    border-radius: 3px;
+    box-sizing: border-box;
+    padding: 2px 3px;
+    font-weight: 700;
+    font-size: x-small;
+}
+.img2{
+    width:50px;
+    height: 20px;
+    margin-top: 10px;
+    margin-right: 8px;
+
+}
+.footer{
+    border-top: 1px solid lightgray;
+}
+.foot-para{
+    font-size: x-small;
+    margin-top: 0;
+    display: inline-block;
+    width: 230px;
+    padding:3px 0;
+    font-weight: 600;
+    color: hsla(0, 19%, 10%, 0.506);
+}
+.promoted{
+    top:0;
+    left: 10px;
+    background-color: gray;
+    color:#ffffff7d;
+    font-size: xx-small;
+    box-sizing: border-box;
+    padding: 1px 3px;
+} */
+/* .bali-card{
+    width:600px;
+    margin:200px auto;
+    text-align: center;
+    position: relative;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.details{
+    position: absolute;
+    bottom: 50px;
+}
+img{
+    width: 100%;
+    border-radius: 10px;
+}
+button{
+    background-color: beige;
+    border:none;
+    color: rgba(0, 0, 0, 0.811);
+    border-radius: 40px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    font-weight: 700;
+}
+p{
+    font-size: small; 
+}
+*/
+/*.card-profile{
+    width: 400px;
+    margin:100px auto;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.relative-div{
+    position: relative;
+}
+.img1{
+    width: 100%;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 100px;
+}
+.img2{
+    width:100px;
+    height: 100px;
+    object-fit: cover;
+    position: absolute;
+    border-radius: 50%;
+    border: 3px solid white;
+    bottom:-50px;
+    left:50%;
+    transform: translateX(-50%);
+}
+
+
+
+
+
+
+h4{
+    color:lightgray;
+}
+
+.person{
+    margin-top: 80px;
+    width: 100%;
+    text-align: center;
+    line-height: 10px;
+}*/
+/* .zomato-card{
+    width:800px;
+    position: relative;
+    margin:150px auto;
+    color:white;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.zomato-image{
+    width:100%;
+    object-fit: cover;
+    height: 250px;
+}
+.zomato{
+    position: absolute;
+    top:50%;
+    transform:translateY(-50%);
+    left:200px;
+    
+}
+.div{
+    background-color: white;
+    border-radius: 5px;
+    padding:2px 5px;
+    border: none;
+}
+select,input{
+    border: none;
+}
+
+.search-bar{
+    position:relative;
+    
+}
+.input-container{
+    margin-left:10px
+}
+.input-container::placeholder{
+    font-size: x-small;
+
+}
+.search-icon{
+   position:absolute;
+   width:10px;
+   height: 10px;
+    top:50%;
+   transform: translateY(-20%);
+    
+}
+.select {
+    appearance: none; 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-image: url('./down.webp'); 
+    background-size: 20px; 
+    background-position: right center;
+    background-repeat: no-repeat; 
+    padding-right: 20px; 
+    margin-left: 14px;
+    border-right: 1px solid lightgray;
+  }
+  .select-container{
+    position:relative;
+    
+  }
+  h1{
+    font-family: cursive;
+  }
+  .location-img{
+    position:absolute;
+    object-fit: cover;
+    width:15px;
+   height: 15px;
+    top:50%;
+    left: -10px;
+    margin-left: 5px;
+   transform: translateY(-40%);
+  }
+   */
